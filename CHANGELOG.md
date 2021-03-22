@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.2] 2020-03-22
+### Fixes 
+
+- Bump Codebase: [Django Dashboard](https://github.com/app-generator/boilerplate-code-django-dashboard) v1.0.4
+- Bump UI: [Jinja Datta PRO](https://github.com/app-generator/jinja-datta-able-pro) v1.0.2
+
 ## [1.0.1] 2020-05-30
 ### Bug fixing, Improvements
 - Add CHANGELOG.md to track all changes
