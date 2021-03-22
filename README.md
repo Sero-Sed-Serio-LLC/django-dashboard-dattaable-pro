@@ -12,6 +12,8 @@
 - Deployment scripts: Docker, Gunicorn / Nginx
 - Support via **Github** and [Discord](https://discord.gg/fZC6hup).
 
+<br />
+
 > Links
 
 - [Django Datta PRO](https://appseed.us/admin-dashboards/django-dashboard-dattaable-pro) - product page
