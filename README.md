@@ -17,7 +17,7 @@
 > Links
 
 - [Django Datta PRO](https://appseed.us/admin-dashboards/django-dashboard-dattaable-pro) - product page
-- [Django Datta PRO - Demo](https://django-dashboard-dattaable-pro.appseed.us/) - LIVE Deployment
+- [Django Datta PRO - Demo](https://django-datta-able-pro.appseed-srv1.com) - LIVE Deployment
 - [Django Datta PRO - Docs](https://docs.appseed.us/admin-dashboards/django-dashboard-dattaable-pro/) - Official Documentation 
 
 <br />
