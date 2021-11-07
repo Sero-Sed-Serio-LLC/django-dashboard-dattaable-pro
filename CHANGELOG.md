@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.0.4] 2021-11-07
+### Improvements
+
+- Bump Django Codebase to [v2.0.4](https://github.com/app-generator/boilerplate-code-django-dashboard/releases)
+  - `assets` & `templates` moved to `apps` folder
+- Adeed Gulp tooling for SCSS compilation
+
 ## [1.0.3] 2021-09-09
 ### Improvements & Fixes
 
